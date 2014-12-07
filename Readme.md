@@ -1,20 +1,14 @@
-# Koding Global Virtual Hackathon's Submission Example
-
-This is a sample submission repository for the hackathon. If you don't know what that is, please [go here](https://koding.com/Hackathon). You can fork this repo and use this as a starting point.
+# Koding Global Virtual Hackathon Submission
 
 ## Description
 
-[![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
-
-A brief introduction to your project. It should include the motivation behind the project and also how it addresses the hackthon theme you've selected.
+I have choosen the first theme problems facing our planet, explained using interactive data visualization. Since I'm pretty much the noob lord I am not quite shure if I have nailed the theme. But I'm still really happy and almost overwhelmed by the amount of different skills I managed to learn during these 48 hours. Thank you for that.
 
 ## Screenshots
 
-Here provide couple screenshots of your project. You can use a tool like https://monosnap.com/welcome or https://droplr.com to take a screenshot. Animated gifs are also welcome.
-
-![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-terminal.png "Koding")
-![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-ide.png "Koding")
+<img src="http://d.pr/i/16Rt9/3SNlzUKc">
+<img src="http://d.pr/i/1bkE8/34kbGkz5">
 
 ## APIs used
 
-Provide a list of APIs you used in this project.
+I did not manage to use any APIs in my code :) (or at least I think I didn't)
